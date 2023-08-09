@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "xyz.appmaker.boezcm",
+      "sha256_cert_fingerprints": [
+        "37:67:68:DF:86:3E:AB:6E:EC:B9:C0:3F:65:BF:6D:34:F9:DB:3F:B7:DC:90:7C:88:61:FE:03:7C:25:DC:F1:37"
+      ]
+    }
+  }
+]
